@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-09T15:47:10Z" name="Surefire suite" finished-at="2020-03-09T15:47:27Z" duration-ms="17576">
+    <groups>
+    </groups>
+    <test started-at="2020-03-09T15:47:10Z" name="Surefire test" finished-at="2020-03-09T15:47:27Z" duration-ms="17576">
+      <class name="com.globant.automation.training.navigation.NavigationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3]" started-at="2020-03-09T15:47:10Z" name="setUp" finished-at="2020-03-09T15:47:22Z" duration-ms="12507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3]" started-at="2020-03-09T15:47:22Z" name="goHome" finished-at="2020-03-09T15:47:23Z" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testValidateStartButtonInNewTab()[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3]" started-at="2020-03-09T15:47:23Z" name="testValidateStartButtonInNewTab" finished-at="2020-03-09T15:47:27Z" duration-ms="4726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateStartButtonInNewTab -->
+        <test-method is-config="true" signature="recordeFailure(org.testng.ITestResult)[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3]" started-at="2020-03-09T15:47:27Z" name="recordeFailure" finished-at="2020-03-09T15:47:27Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidateStartButtonInNewTab status=SUCCESS method=NavigationTest.testValidateStartButtonInNewTab()[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recordeFailure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.globant.automation.training.navigation.NavigationTest@4fcd19b3]" started-at="2020-03-09T15:47:27Z" name="tearDown" finished-at="2020-03-09T15:47:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.globant.automation.training.navigation.NavigationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

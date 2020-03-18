@@ -1,0 +1,4 @@
+com\globant\automation\training\pages\HomePage.class
+com\globant\automation\training\App.class
+com\globant\automation\training\pages\LoginPage.class
+com\globant\automation\training\pages\SecureAreaPage.class
